@@ -1,0 +1,55 @@
+body{
+   background-repeat:no-repeat;
+   background-attachment:fixed;
+   background-size:100% 100%
+    }
+
+.Catalogo {
+    width:900px;
+    height:px;
+    position:relative;
+    top:; 
+    bottom:;
+    right:;
+    left:;
+}
+
+.Estilos {
+    width:700px;
+    height:px;
+    position:relative;
+    top:; 
+    bottom:200px;
+    right:;
+    left:800px;
+}
+
+.Productos {
+    width:700px;
+    height:px;
+    position:relative;
+    top:; 
+    bottom:200px;
+    right:;
+    left:;
+}
+
+.Marcas{
+    width:400px;
+    height:100px;
+    position:relative;
+    top:; 
+    bottom:250px;
+    right:;
+    left:900px;
+}
+
+.Descripcion{
+    width:500px;
+    height:px;
+    position:relative;
+    top:; 
+    bottom:150px;
+    right:;
+    left:400px;
+}
